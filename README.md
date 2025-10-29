@@ -37,19 +37,32 @@ Various queries were executed to calculate insights like top sellers and average
 The dashboard is divided into **3 pages**:
 
 #### 3.1 Analysis Overview
-Shows top sellers, top products, total revenue, and orders trend charts.
+This page shows key metrics and visualizations:
+
+- **KPIs** – Key performance indicators like total revenue, total orders, total customers.  
+- **Orders per Month** – Trend of total orders over time.  
+- **Top Categories** – Most popular product categories.  
+- **State-wise Orders and Revenue** – Distribution of orders and revenue by customer state.  
+- **Payment Type** – Breakdown of orders by payment method.
 
 ![Analysis Overview](Images/Sales_Overview.png)
 
 #### 3.2 Customer and Order Details
-Displays customer demographics, average orders per customer, and detailed order information.
+This page displays detailed customer and order insights:
 
+- **Top 10 Sellers by Revenue** – Ranking of sellers based on total revenue.  
+- **Customer Type** – Breakdown of customers by type (e.g., new vs returning).  
+- **Delivery Status** – Status of deliveries (delivered, canceled, etc.).  
+- **Top 5 Cities with Most Customers** – Cities with the highest number of customers.
 ![Customer and Order Details](Images/Customers_and_Orders_Details.png)
 
 #### 3.3 Map
-A geographic map showing revenue distribution by location and customer density.
+This page shows the geographic distribution of customers:
 
-![Map](Images/map.png)
+- **Total Customers by State** – A map visualizing the number of customers in each state.
+
+
+![Map](Images/ap.png)
 
 ---
 
