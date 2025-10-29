@@ -30,7 +30,7 @@ The project uses the Brazilian E-commerce dataset from Olist, which includes the
 ## How to Use
 
 1. Clone this repository:
-```bash
+
 git clone https://github.com/louay133/Olist_CaseStudy.git
 2. Open the SQL queries in the `SQL/` folder to run them on your database.
 
