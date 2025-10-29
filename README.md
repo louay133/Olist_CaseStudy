@@ -22,7 +22,7 @@ The project uses the Brazilian E-commerce dataset from Olist, which includes the
 
 The CSV files were uploaded to the `Olist_Ecommerce` database using Python and SQLAlchemy.
 
-![Upload CSV](Images/python.png)
+![Upload CSV](Images/Python.png)
 
 ---
 
