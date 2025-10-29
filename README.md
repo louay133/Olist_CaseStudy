@@ -32,6 +32,7 @@ The project uses the Brazilian E-commerce dataset from Olist, which includes the
 1. Clone this repository:
 
 git clone https://github.com/louay133/Olist_CaseStudy.git
+
 2. Open the SQL queries in the `SQL/` folder to run them on your database.
 
 3. Open `Olist_Dashboard.pbix` in Power BI to explore the visualizations.
