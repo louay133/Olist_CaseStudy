@@ -19,9 +19,40 @@ The project uses the Brazilian E-commerce dataset from Olist, which includes the
 ## Project Steps
 
 ### 1️⃣ Upload CSV files to SQL Database using Python
+
 The CSV files were uploaded to the `Olist_Ecommerce` database using Python and SQLAlchemy.
 
-![Upload CSV](Images/python)
+![Upload CSV](Images/python.png)
+
+---
+
+### 2️⃣ Run Analysis Queries in SQL
+
+Various queries were executed to calculate insights like top sellers and average orders per customer.
+
+![SQL Tables](Images/SQL.png)
+
+### 3️⃣ Power BI Dashboard
+
+The dashboard is divided into **3 pages**:
+
+#### 3.1 Analysis Overview
+Shows top sellers, top products, total revenue, and orders trend charts.
+
+![Analysis Overview](Images/Sales_Overview.png)
+
+#### 3.2 Customer and Order Details
+Displays customer demographics, average orders per customer, and detailed order information.
+
+![Customer and Order Details](Images/Customers_and_Orders_Details.png)
+
+#### 3.3 Map
+A geographic map showing revenue distribution by location and customer density.
+
+![Map](Images/map.png)
+
+---
+
 
 ## Key Analysis
 
