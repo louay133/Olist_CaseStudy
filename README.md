@@ -3,7 +3,12 @@
 ## Overview
 This repository contains the data analysis and visualizations for the Olist E-commerce Case Study. The analysis focuses on Brazilian e-commerce operations, including sales trends, top sellers, customer behavior, and product insights.
 
-## Project Structure
+## Project Steps
+
+### 1️⃣ Upload CSV files to SQL Database using Python
+The CSV files were uploaded to the `Olist_Ecommerce` database using Python and SQLAlchemy.  
+
+![Upload CSV to SQL](Images/upload_csv.png)
 
 
 ## Dataset
