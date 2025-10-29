@@ -21,7 +21,7 @@ The project uses the Brazilian E-commerce dataset from Olist, which includes the
 ### 1️⃣ Upload CSV files to SQL Database using Python
 The CSV files were uploaded to the `Olist_Ecommerce` database using Python and SQLAlchemy.
 
-![Upload CSV](Images/python.png)
+![Upload CSV](Images/python)
 
 ## Key Analysis
 
